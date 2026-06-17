@@ -14,6 +14,10 @@ Precisava subir backend e banco de dados de forma integrada, sem configurar manu
 ## ✅ Resultado
 Com um único comando (`docker-compose up`), todo o ambiente ficou pronto para testes, reduzindo tempo e aumentando consistência.
 
+## ▶️ Como rodar
+```bash
+docker compose up -d --build
+
 ## 🚀 Próximos passos
 - Kubernetes
 - Terraform
